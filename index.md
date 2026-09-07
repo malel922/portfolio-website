@@ -3,5 +3,5 @@
 ## My projects
 * Collabortive Software Project in Computational Physics
 ## My skills
-* Python, Git and GitHub
+* Python, Git and GitHub and C++
 
