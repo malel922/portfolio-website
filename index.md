@@ -1,7 +1,7 @@
-# Test Testson
-Collaborative software engineer
+# Malte Testson
+ Collaborative software engineer
 ## My projects
 * Collabortive Software Project in Computational Physics
 ## My skills
-* Git and GitHub
+* Python, Git and GitHub
 
